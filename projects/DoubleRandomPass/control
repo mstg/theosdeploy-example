@@ -1,0 +1,10 @@
+Package: me.switchpwn.doublerandompass
+Name: DoubleRandomPass
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Type in your passcode, then some random stuff to unlock
+Maintainer: switchpwn <mustiigezen@gmail.com>
+Author: switchpwn <mustiigezen@gmail.com>
+Depends: mobilesubstrate
+Section: Tweaks
+dev: switchpwn
